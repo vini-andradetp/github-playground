@@ -14,7 +14,7 @@ Exercício preparado com assistência de IA para aprender commits com múltiplos
 ## Verificação
 
 - Confirmar a revisão e aprovação da atribuição pelos participantes.
-- Confirmar os nomes e e-mails de commit.
+- Confirmar os nomes e e-mails de commit; o e-mail precisa estar verificado na conta correspondente.
 - Conferir se o GitHub reconheceu os dois perfis.
 - Conferir se a coautoria foi preservada após o merge.
 
